@@ -6,7 +6,13 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <TextView
+        android:id="@+id/textView"
+        android:text="Do you wish to click on the cookie"
 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
 
     <EditText
         android:id="@+id/editTextView"
