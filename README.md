@@ -24,6 +24,9 @@
 - Button view ligger längst ner vilket betyder att dens Top är constrained till viewen över (TextView)
 - Buttons bottom är constrained till parent eftersom ingen annan view finns under
 
-
+-Jag använde margin för att putta ner top viewen lite
+```
+        android:layout_marginTop="200dp"
+```
 
 ![img.png](img.png)
